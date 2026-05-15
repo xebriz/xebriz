@@ -81,7 +81,7 @@ Description of what it does and what you learned from it.
 
 <!-- FOOTER WAVE -->
 <p align="center">
-<figure>
+<figure align="center">
   <img src="https://i.pinimg.com/originals/a4/61/ae/a461ae39adf7765d58b73355bb77d23f.gif" width="200px" />
 </figure>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100§ion=footer" width="100%"/>
