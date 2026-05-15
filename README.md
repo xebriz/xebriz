@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200§ion=header&text=@YOUR_USERNAME&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20Always%20building&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200§ion=header&text=@Xebriz&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20Always%20building&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- VISITOR COUNTER -->
 <p align="right">
- <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6c63ff&label=profile+views" />
+ <img src="https://komarev.com/ghpvc/?username=Xebriz&style=flat-square&color=6c63ff&label=profile+views" />
 </p>
 
 <!-- ABOUT -->
